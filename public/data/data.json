@@ -1,0 +1,46 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "musicTitle": "Serenade in the Night",
+      "musicDescription": "A soothing serenade that brings peace and calm to your evening.",
+      "imgUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "buttonText": "Learn More"
+    },
+    {
+      "id": 2,
+      "musicTitle": "Morning Glory",
+      "musicDescription": "An uplifting track that energizes your morning routine.",
+      "imgUrl": "https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "buttonText": "Learn More"
+    },
+    {
+      "id": 3,
+      "musicTitle": "Rhythms of the Rain",
+      "musicDescription": "A rhythmic tune that mirrors the gentle patter of rain.",
+      "imgUrl": "https://images.unsplash.com/photo-1529119368496-2dfda6ec2804?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "buttonText": "Learn More"
+    },
+    {
+      "id": 4,
+      "musicTitle": "Dancing Leaves",
+      "musicDescription": "An enchanting melody that evokes the beauty of autumn.",
+      "imgUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "buttonText": "Learn More"
+    },
+    {
+      "id": 5,
+      "musicTitle": "Echoes of Eternity",
+      "musicDescription": "A mystical track that resonates with the whispers of time.",
+      "imgUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1415&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "buttonText": "Learn More"
+    },
+    {
+      "id": 6,
+      "musicTitle": "Mystic Moonlight",
+      "musicDescription": "A captivating tune that captures the magic of a moonlit night.",
+      "imgUrl": "https://images.unsplash.com/photo-1541592553160-82008b127ccb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "buttonText": "Learn More"
+    }
+  ]
+}

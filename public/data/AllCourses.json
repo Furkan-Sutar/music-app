@@ -1,0 +1,73 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Elegant Chair",
+        "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?q=80&w=1551&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A beautifully crafted chair perfect for any living room.",
+        "price": "$120.00",
+        "buttons": [
+          { "text": "Buy Now", "link": "#", "type": "buy" },
+          { "text": "Try Now", "link": "#", "type": "try" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Modern Lamp",
+        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Add a touch of modern elegance to your space with this lamp.",
+        "price": "$80.00",
+        "buttons": [
+          { "text": "Buy Now", "link": "#", "type": "buy" },
+          { "text": "Try Now", "link": "#", "type": "try" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Cozy Sofa",
+        "image": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A comfortable sofa that fits perfectly in any room.",
+        "price": "$450.00",
+        "buttons": [
+          { "text": "Buy Now", "link": "#", "type": "buy" },
+          { "text": "Try Now", "link": "#", "type": "try" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Stylish Table",
+        "image": "https://media.istockphoto.com/id/1064266930/photo/php-code-on-laptop-and-white-cup.jpg?s=2048x2048&w=is&k=20&c=sd6n8PpOqIXVCzWi6LN0rytsVR5WGhbDrC7yDULXEOU=",
+        "description": "A stylish table that brings a touch of sophistication.",
+        "price": "$220.00",
+        "buttons": [
+          { "text": "Buy Now", "link": "#", "type": "buy" },
+          { "text": "Try Now", "link": "#", "type": "try" }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Office Desk",
+        "image": "https://images.unsplash.com/photo-1505238680356-667803448bb6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A sleek office desk to enhance your productivity.",
+        "price": "$350.00",
+        "buttons": [
+          { "text": "Buy Now", "link": "#", "type": "buy" },
+          { "text": "Try Now", "link": "#", "type": "try" }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Bookshelf",
+        "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A modern bookshelf to store all your favorite books.",
+        "price": "$150.00",
+        "buttons": [
+          { "text": "Buy Now", "link": "#", "type": "buy" },
+          { "text": "Try Now", "link": "#", "type": "try" }
+        ]
+      }
+    
+    
+    ]
+  }
+  
